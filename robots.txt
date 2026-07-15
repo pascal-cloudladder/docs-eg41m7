@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-y2szb2.pawcheck.app/sitemap.xml
